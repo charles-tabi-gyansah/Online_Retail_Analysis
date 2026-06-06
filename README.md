@@ -92,13 +92,13 @@ Five actionable business insights derived from the analysis (see notebook for fu
 | `OnlineRetail_Analysis.ipynb` | Full Jupyter Notebook with all 5 tasks |
 | `Summary_Report.docx` | One-page summary report |
 
-> ⚠️ **Note on Datasets:** The raw and cleaned datasets are not included in this repository due to GitHub's file size limit (the files exceed 25MB). You can access both CSV files via the Google Drive link below, or download the original raw dataset directly from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/352/online+retail).
+> ⚠️ **Note on Datasets:** The raw and cleaned datasets are not included in this repository due to GitHub's file size limit (the files exceed 25MB). You can access both CSV files via the Google Drive link below
 
 ---
 
 ## 🔗 Full Project on Google Drive
 All deliverables including the cleaned dataset and raw data are available here:
-[📁 View Full Project on Google Drive](#) ← *(replace with your Google Drive link)*
+https://drive.google.com/drive/folders/1HGI9UGAFSad6pEbzdK_b60q5_j1mGIBy?usp=drive_link
 
 ---
 
