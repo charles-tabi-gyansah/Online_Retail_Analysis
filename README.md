@@ -92,7 +92,7 @@ Five actionable business insights derived from the analysis (see notebook for fu
 | `OnlineRetail_Analysis.ipynb` | Full Jupyter Notebook with all 5 tasks |
 | `Summary_Report.docx` | One-page summary report |
 
-> ⚠️ **Note on Datasets:** The raw and cleaned datasets are not included in this repository due to GitHub's file size limit (the files exceed 25MB). You can access both CSV files via the Google Drive link below
+> ⚠️ **Note on Datasets:** The cleaned dataset are not included in this repository due to GitHub's file size limit (the files exceed 25MB). You can access both CSV files via the Google Drive link below
 
 ---
 
