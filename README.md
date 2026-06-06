@@ -6,7 +6,7 @@
 
 ## 📌 Project Overview
 
-This project is a complete end-to-end data analysis of the **Online Retail dataset** — a real-world e-commerce transaction dataset from a UK-based online retailer covering December 2010 to December 2011.
+This project is a complete end-to-end data analysis of the **Online Retail dataset** a real-world e-commerce transaction dataset from a UK-based online retailer covering December 2010 to December 2011.
 
 I completed this project as part of the **AnalystLab Africa Data Analytics Internship**, learning Python from scratch alongside the actual analysis work.
 
@@ -90,13 +90,15 @@ Five actionable business insights derived from the analysis (see notebook for fu
 | File | Description |
 |---|---|
 | `OnlineRetail_Analysis.ipynb` | Full Jupyter Notebook with all 5 tasks |
-| `OnlineRetail_Cleaned.csv` | Cleaned dataset (524,878 rows) |
 | `Summary_Report.docx` | One-page summary report |
+
+> ⚠️ **Note on Datasets:** The raw and cleaned datasets are not included in this repository due to GitHub's file size limit (the files exceed 25MB). You can access both CSV files via the Google Drive link below, or download the original raw dataset directly from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/352/online+retail).
 
 ---
 
 ## 🔗 Full Project on Google Drive
-
+All deliverables including the cleaned dataset and raw data are available here:
+[📁 View Full Project on Google Drive](#) ← *(replace with your Google Drive link)*
 
 ---
 
